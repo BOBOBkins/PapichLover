@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans:wght@700&display=swap');
+body {
+    font-family: 'DM Sans', serif;
+    background: linear-gradient(360deg, #585858 0%, #AF9B75 100%);
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(128, 128, 128);
+}
+
+.navbar-brand img {
+    width: 32px;
+}
+
+.navbar-toggler {
+    background-color: rgb(128, 128, 128);
+}
+
+.sidebar {
+    color: aliceblue;
+}
+
+.card a {
+    text-decoration: none;
+    color: black;
+}
+
+.ptag {
+    font-size: 2rem;
+    margin: auto auto;
+}
+
+footer {
+    background-color: rgb(48,48,48);
+}
+
+footer a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer p {
+  color: aliceblue;
+}
+
+footer img {
+  width: 32px;
+}
+section {
+  margin-bottom: 3rem;
+  margin-top: 2.5rem;
+}
